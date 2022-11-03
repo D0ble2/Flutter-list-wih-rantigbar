@@ -1,0 +1,4 @@
+#Wed Nov 02 21:07:32 VET 2022
+base.0=/home/doble/Escritorio/top_animales/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
